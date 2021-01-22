@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1611304179 source:g:\t02308\cpp\fbquiz\question1\main.cpp
+	<iostream>
+	<map>
+	"Building.h"
+	"PersonImp.h"
+	"CarExpImp.h"
+
+1611298989 source:g:\t02308\cpp\fbquiz\question1\buildingimp.cpp
+	"Building.h"
+
+1611301680 g:\t02308\cpp\fbquiz\question1\building.h
+	<iostream>
+
+1611300527 source:g:\t02308\cpp\fbquiz\question1\personimp.cpp
+	"PersonImp.h"
+
+1611304523 g:\t02308\cpp\fbquiz\question1\personimp.h
+	<iostream>
+
+1611305427 source:g:\t02308\cpp\fbquiz\question1\carexpimp.cpp
+	"CarExpImp.h"
+	"Building.h"
+
+1611306009 g:\t02308\cpp\fbquiz\question1\carexpimp.h
+	<iostream>
+	"Building.h"
+	"PersonImp.h"
+
