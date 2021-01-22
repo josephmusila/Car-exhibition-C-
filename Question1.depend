@@ -27,3 +27,31 @@
 	"Building.h"
 	"PersonImp.h"
 
+1611352274 source:c:\users\musila\downloads\car-exhibition-c--master\car-exhibition-c--master\buildingimp.cpp
+	"Building.h"
+
+1611352274 c:\users\musila\downloads\car-exhibition-c--master\car-exhibition-c--master\building.h
+	<iostream>
+
+1611353279 source:c:\users\musila\downloads\car-exhibition-c--master\car-exhibition-c--master\carexpimp.cpp
+	"CarExpImp.h"
+	"Building.h"
+
+1611352274 c:\users\musila\downloads\car-exhibition-c--master\car-exhibition-c--master\carexpimp.h
+	<iostream>
+	"Building.h"
+	"PersonImp.h"
+
+1611352275 c:\users\musila\downloads\car-exhibition-c--master\car-exhibition-c--master\personimp.h
+	<iostream>
+
+1611352276 source:c:\users\musila\downloads\car-exhibition-c--master\car-exhibition-c--master\main.cpp
+	<iostream>
+	<map>
+	"Building.h"
+	"PersonImp.h"
+	"CarExpImp.h"
+
+1611352275 source:c:\users\musila\downloads\car-exhibition-c--master\car-exhibition-c--master\personimp.cpp
+	"PersonImp.h"
+
